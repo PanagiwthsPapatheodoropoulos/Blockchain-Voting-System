@@ -1,0 +1,44 @@
+# Java specific ignores
+*.class
+*.jar
+*.war
+*.ear
+bin/
+build/
+out/
+target/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/settings.json
+.vscode/launch.json
+
+# Keep .vscode folder but ignore workspace files
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+# Log files
+*.log
+*.ctxt
+hs_err_pid*
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# JavaFX cache
+.gradle/
+javafx-sdk-*/
+
+# Local configuration files
+*.properties
+*.prefs
+
+# Temp files
+*.tmp
+*.bak

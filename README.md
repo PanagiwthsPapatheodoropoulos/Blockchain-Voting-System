@@ -31,4 +31,13 @@ A secure decentralized voting system using blockchain technology with JavaFX GUI
 - JavaFX SDK 21
 
 ```bash
-git clone https://github.com/PanagiwthsPapatheodoropoulos/blockchain-voting-system.git
+git clone https://github.com/PanagiwthsPapatheodoropoulos/Blockchain-Voting-System.git
+```
+
+### Application workflow:
+
+Add Nodes - Register voting nodes in the network
+
+Cast Votes - Submit votes with voter ID and candidate
+
+View Blockchain - Monitor the growing chain and verify integrity
